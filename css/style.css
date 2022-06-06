@@ -3,7 +3,7 @@
 
 
 :root {
-    --main-color: #f0c21b;
+    --main-color: black;
     --secundary-color: #1a4657;
     --white-color: #fff;
 }
@@ -42,7 +42,7 @@ body{
 
 
 .container .title{
-    color: #F0C21B;
+    color: black;
     font-family:'Kaushan Script', sans-serif;
     font-weight: bold;
     padding: 10px;
@@ -51,7 +51,7 @@ body{
 }
 
 #result{
-    color: #F0C21B;
+    color: black;
     font-family:'Kaushan Script', sans-serif;
     font-weight: bold;
     padding: 10px;
