@@ -2,8 +2,8 @@
 <h1 align="center">SITE QUE PEGA UM INTERVALO DE NUMERO E FAZ UM SORTEIO DE UM NUMERO ALEATORIO!!!!
 
 
+![Sorteio - Google Chrome 2022-06-06 14-46-22](https://user-images.githubusercontent.com/97768716/172216626-459a6fc9-6882-45b5-ad6c-116f49a941e1.gif)
 
-![Sorteio - Google Chrome 2022-04-19 17-01-25](https://user-images.githubusercontent.com/97768716/164087492-4a6b2fef-8274-4b4f-b574-371a3003d338.gif)
 
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
