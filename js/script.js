@@ -4,11 +4,13 @@ function sortear(){
     
     let ns = Math.round(Math.random() * np);
 
-    document.getElementById("result").innerHTML= ns
+    let rs = document.getElementById("result");
 
+    rs.textContent= `O numero sorteado foi ${ns}`;
 
-    if (!np){
-        alert("Por favor digite um numero");
+    if (!np || np<=0){
+        
+        rs.textContent=`Digite um valor valido`
     }
 
 
