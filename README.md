@@ -15,6 +15,14 @@
  
 </div>
 <br>
+  
+## Implementações :information_source:
+1.Foi adicionado um campo para receber um numero que o usuario desejar.
+<br>  
+2.O sistema vai fazer um sorteio aleatorio, onde o numero escolhido pelo usuario sera o intervalo entre ele mesmo e 0.
+<br> 
+3. Responsividade para mobile.
+
 
 <div align="center" style="display:inline_block"> <br> 
   
