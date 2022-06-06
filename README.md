@@ -4,6 +4,7 @@
 
 ![Sorteio - Google Chrome 2022-06-06 14-46-22](https://user-images.githubusercontent.com/97768716/172216626-459a6fc9-6882-45b5-ad6c-116f49a941e1.gif)
 
+![Design_sem_nome__4_-removebg-preview](https://user-images.githubusercontent.com/97768716/172218522-8be01509-1f91-4f0c-a432-fe80692a6095.png)
 
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
